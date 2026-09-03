@@ -386,6 +386,7 @@ The notebook was developed using **Google Colaboratory (Google Colab)**.
 
 ---
 
+
 ## 19. Repository Structure
 
 ```text
@@ -398,29 +399,27 @@ retail-sales-amount-prediction/
 └── notebook/
     ├── .gitkeep
     └── Retail_Sales_Amount_Prediction.ipynb
-
-
+```
 
 ---
-
 ## 20. Technologies Used
 
-- Python
-- Google Colaboratory
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- GridSearchCV
-- Regression Modelling
-- Exploratory Data Analysis
-- Data Visualization
+Python
+Google Colaboratory
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+GridSearchCV
+Regression Modelling
+Exploratory Data Analysis
+Data Visualization
+
 
 ---
-
 ## Author
 
-**Sunita Baloda**
+Sunita Baloda
 
-**M.Sc. Data Science & Artificial Intelligence**
+M.Sc. Data Science & Artificial Intelligence

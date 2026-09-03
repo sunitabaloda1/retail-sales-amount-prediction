@@ -16,7 +16,7 @@
 
 ## 1. Project Overview
 
-This project develops a machine learning solution capable of predicting retail invoice amounts using historical transaction data from the UCI Online Retail dataset  [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
+This project develops a machine learning solution capable of predicting retail invoice amounts using historical transaction data from the UCI Online Retail dataset.
 
 The project follows a complete data science workflow, beginning with data exploration and cleaning, followed by feature engineering, model development, performance evaluation, and business interpretation.
 
@@ -34,7 +34,8 @@ The complete implementation is provided in the Jupyter/Google Colab notebook inc
 
 ## 2. Dataset
 
-The project uses the **Online Retail dataset** from the **UCI Machine Learning Repository**.
+The project uses the **Online Retail dataset** from the **UCI Machine Learning Repository**
+Ref- [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
 
 The dataset contains transactional records from a UK-based online retailer and includes important variables such as:
 

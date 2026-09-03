@@ -26,9 +26,9 @@ The primary business objective is to support retail sales forecasting, inventory
 
 ## Dataset
 
-The project uses the **Online Retail Dataset** from the UCI Machine Learning Repository.
+The dataset used in this project is the **Online Retail dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail). The dataset contains 541,909 transactional records from a UK-based online retailer covering transactions from December 2010 to December 2011.
 
-The dataset contains transactional records from a UK-based online retailer and includes variables such as:
+The dataset includes variables such as:
 
 - Invoice Number
 - Stock Code

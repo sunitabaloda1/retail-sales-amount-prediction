@@ -399,6 +399,8 @@ retail-sales-amount-prediction/
     ├── .gitkeep
     └── Retail_Sales_Amount_Prediction.ipynb
 
+---
+
 ## Technologies Used
 
 - Python
@@ -413,8 +415,7 @@ retail-sales-amount-prediction/
 - Exploratory Data Analysis
 - Data Visualization
 
-
-
+---
 ## Author
 
 Sunita Baloda

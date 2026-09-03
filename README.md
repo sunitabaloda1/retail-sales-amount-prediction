@@ -399,9 +399,11 @@ retail-sales-amount-prediction/
     ├── .gitkeep
     └── Retail_Sales_Amount_Prediction.ipynb
 
+
+
 ---
 
-## Technologies Used
+## 20. Technologies Used
 
 - Python
 - Google Colaboratory
@@ -416,6 +418,9 @@ retail-sales-amount-prediction/
 - Data Visualization
 
 ---
+
 ## Author
 
-Sunita Baloda
+**Sunita Baloda**
+
+**M.Sc. Data Science & Artificial Intelligence**
